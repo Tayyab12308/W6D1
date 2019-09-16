@@ -1,0 +1,1 @@
+let Asteroid = module.exports { Asteroid }
